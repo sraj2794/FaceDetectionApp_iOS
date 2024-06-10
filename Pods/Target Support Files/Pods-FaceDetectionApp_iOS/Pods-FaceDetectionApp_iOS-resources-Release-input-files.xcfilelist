@@ -1,0 +1,2 @@
+${PODS_ROOT}/Target Support Files/Pods-FaceDetectionApp_iOS/Pods-FaceDetectionApp_iOS-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/MLKitFaceDetection/GoogleMVFaceDetectorResources.bundle
