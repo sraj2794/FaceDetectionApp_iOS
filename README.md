@@ -19,6 +19,14 @@ This is a simple iOS app that allows users to pick an image from their gallery a
 <img src="https://github.com/sraj2794/FaceDetectionApp_iOS/assets/41502704/a1c6622f-fee8-414c-a88c-5447ab9e7891" width="200" height="400" alt="IMG_1371 2">
 <img src="https://github.com/sraj2794/FaceDetectionApp_iOS/assets/41502704/cb108adf-2098-47a1-8198-13285d3b265d" width="200" height="400" alt="IMG_1370 2">
 
+## Videos
+
+
+https://github.com/sraj2794/FaceDetectionApp_iOS/assets/41502704/60373dd2-f768-4fbc-a248-e7ce09394cf0
+
+
+
+
 
 
 1. Clone the repository:
